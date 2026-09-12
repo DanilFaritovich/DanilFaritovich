@@ -10,7 +10,8 @@ I build backend services, ETL pipelines, data-processing systems, and automation
 - **Python Backend Engineer (Data & Automation) at Maxim Technology** — 2022–Present.
 - **Freelance Python Backend Developer** — 2021–Present.
 - **B.Sc. in Applied Mathematics and Computer Science**, Kazan Federal University — 2021–2026.
-- Based in **Yerevan, Armenia** and open to **Python Backend / Data Engineering opportunities**.
+- Based in **Yerevan, Armenia**.
+- 🟢 **Open to Work:** Python Backend Engineer / Data Engineer roles, including remote opportunities.
 
 [![Python](https://img.shields.io/badge/Python-3.14-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
