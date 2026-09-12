@@ -20,8 +20,6 @@ I build backend services, ETL pipelines, data-processing systems, and automation
 | [**Yandex Geocoder Region Parser**](https://github.com/DanilFaritovich/yandex-geocoder-region-parser) | Geospatial data-processing service for enriching locality data with district information | Python, PostgreSQL, Yandex Geocoder API, Pydantic v2, psycopg3 |
 | [**Task Service API**](https://github.com/DanilFaritovich/task-service-api) | Async REST API with layered architecture, migrations and integration tests | FastAPI, PostgreSQL, SQLAlchemy 2.x, Alembic, Pydantic v2, Pytest |
 | [**Avito Parser**](https://github.com/DanilFaritovich/avito-parser) | Listing parser that processes article lists, applies filters and exports selected results to CSV | Python, parsing, CSV, automation |
-| [**PostgreSQL + pgAdmin Docker**](https://github.com/DanilFaritovich/postgresql-pgadmin-docker) | Reproducible local database environment with persistent storage and web administration | PostgreSQL, pgAdmin, Docker Compose |
-| [**Portfolio**](https://github.com/DanilFaritovich/portfolio) | Earlier web portfolio project | HTML, CSS, JavaScript |
 
 ## Engineering focus
 
