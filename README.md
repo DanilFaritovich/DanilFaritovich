@@ -1,6 +1,6 @@
 # Danil Miftakhov
 
-**Python Backend Engineer | Data & ML**
+**Python Backend & Data Engineer**
 
 I build backend services, ETL pipelines, data-processing systems, and ML-enabled applications with Python. My main focus is backend engineering, with data engineering and ML integration as complementary strengths.
 
