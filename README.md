@@ -14,7 +14,7 @@ I'm currently focused on backend development with FastAPI, SQLAlchemy, and Postg
 - **Large-scale data processing:** Built a Python tool that processed **46 million address records in a single run**, taking approximately **6–8 hours** using batched, concurrent PostgreSQL operations.
 - **Database engineering:** Work with PostgreSQL/PostGIS, SQL optimization, asyncio, psycopg, and SQLAlchemy. Developed reusable database tools and configurable data-processing workflows.
 - **Backend development:** Build REST API applications with FastAPI, SQLAlchemy, Alembic, and Pydantic. Practice backend architecture, business logic, transactions, and automated testing through my portfolio projects.
-- **Infrastructure:** Work with Docker, Linux, Bash, and CI/CD for application development and deployment.
+- **Infrastructure:** Build and validate personal Ubuntu VPS infrastructure with Ansible, Docker, SSH/UFW, and CI, including isolated VM E2E testing.
 
 B.Sc. in Applied Mathematics and Computer Science, Kazan Federal University.
 
@@ -22,6 +22,7 @@ B.Sc. in Applied Mathematics and Computer Science, Kazan Federal University.
 
 | Project | Description | Stack |
 | --- | --- | --- |
+| [**Portfolio Server Infrastructure**](https://github.com/DanilFaritovich/portfolio-server-infrastructure) | [v1.0.0](https://github.com/DanilFaritovich/portfolio-server-infrastructure/releases/tag/v1.0.0): Ansible-based Ubuntu VPS provisioning with seven verified setup stages, SSH/UFW hardening, Docker and SWAP, VM E2E tests, and successful real-server validation. | Python, Ansible, Ubuntu, Docker, SSH/UFW, GitHub Actions |
 | [**Moon Courier Crisis**](https://github.com/DanilFaritovich/Moon-courier-crisis-game) | Logistics simulation with a FastAPI REST API, domain services, routing logic, SQLAlchemy repositories, automated tests, and a web interface. | Python, FastAPI, SQLAlchemy, Vue 3, Docker |
 | [**Yandex Geocoder Region Parser**](https://github.com/DanilFaritovich/yandex-geocoder-region-parser) | Geospatial ETL pipeline with Airflow-orchestrated processing, external API integration, PostgreSQL, S3-compatible storage, and automated tests. | Python, Airflow, PostgreSQL, MinIO/S3, Docker |
 | [**MaximML**](https://github.com/DanilFaritovich/maxim-ml) | Full-stack ML application for housing-price prediction, model training, and inference using persisted scikit-learn pipelines. | Python, FastAPI, scikit-learn, React, Docker |
@@ -34,7 +35,7 @@ B.Sc. in Applied Mathematics and Computer Science, Kazan Federal University.
 | Backend | Python, FastAPI, SQLAlchemy, Pydantic, asyncio, aiohttp |
 | Databases & Data | PostgreSQL, PostGIS, SQL, psycopg, Apache Airflow, MinIO/S3, pandas |
 | Testing & Quality | Pytest, Ruff, Mypy, GitHub Actions |
-| Infrastructure | Docker, Docker Compose, Linux, Bash, Nginx |
+| Infrastructure | Ansible, Docker, Docker Compose, Linux, Bash, SSH/UFW, Nginx |
 | ML integration | scikit-learn, model training, preprocessing pipelines, inference APIs |
 
 ## Contact
