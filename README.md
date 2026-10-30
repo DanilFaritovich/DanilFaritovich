@@ -1,3 +1,5 @@
+**English** | [Русский](README.ru.md)
+
 # Danil Miftakhov
 
 **Python Backend Developer | PostgreSQL & Data Processing**
