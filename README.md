@@ -12,7 +12,7 @@ I build backend applications with FastAPI, SQLAlchemy, and PostgreSQL, and devel
 
 Projects, engineering decisions, resumes in English and Russian, and contact details.
 
-📍 Yerevan, Armenia · 🟢 Open to remote Python Backend Developer opportunities
+📍 Russia · 🟢 Open to remote Python Backend Developer opportunities
 
 ## About me
 
